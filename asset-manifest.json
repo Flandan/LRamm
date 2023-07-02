@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lramm-site/static/css/main.073c9b0a.css",
+    "main.js": "/lramm-site/static/js/main.2d8794f7.js",
+    "static/js/787.bcf8a6d3.chunk.js": "/lramm-site/static/js/787.bcf8a6d3.chunk.js",
+    "static/media/logo.svg": "/lramm-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lramm-site/index.html",
+    "main.073c9b0a.css.map": "/lramm-site/static/css/main.073c9b0a.css.map",
+    "main.2d8794f7.js.map": "/lramm-site/static/js/main.2d8794f7.js.map",
+    "787.bcf8a6d3.chunk.js.map": "/lramm-site/static/js/787.bcf8a6d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2d8794f7.js"
+  ]
+}
