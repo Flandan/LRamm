@@ -1,23 +1,33 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Card from "./components/card";
+import food from "./assets/food.jpg";
 
 function App() {
+  const recipeAuthor = "Efecan";
+  const recipeItem = {
+    title: "Avokado Ezmeli Taco",
+    date: "8 Haziran 2021, Salı",
+    image: food,
+    description:
+      "Bu kremsi ve baharatlı avokado sosu, günlük taco'larınızı hazırlamak için harika seçeneklerden biri. Geleneksel olarak flautas veya taquitos ile servis edilir, ancak bazı vegan enchiladalara da harika bir katkı sağlar.",
+  };
+
+  const like= 193;
+  const isLiked = true;
+  
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <Card
+          author={recipeAuthor}
+          title={recipeItem.title}
+          date={recipeItem.date}
+          description={recipeItem.description}
+          liked={isLiked}
+          likeCount={like}
+        />
       </header>
     </div>
   );
