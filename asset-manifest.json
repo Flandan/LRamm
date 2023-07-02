@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/lramm-site/static/css/main.39ba6f6f.css",
-    "main.js": "/lramm-site/static/js/main.3481917a.js",
+    "main.js": "/lramm-site/static/js/main.fcfec859.js",
     "static/js/787.bcf8a6d3.chunk.js": "/lramm-site/static/js/787.bcf8a6d3.chunk.js",
     "static/media/food.jpg": "/lramm-site/static/media/food.58c698ab1fadac013056.jpg",
     "index.html": "/lramm-site/index.html",
     "main.39ba6f6f.css.map": "/lramm-site/static/css/main.39ba6f6f.css.map",
-    "main.3481917a.js.map": "/lramm-site/static/js/main.3481917a.js.map",
+    "main.fcfec859.js.map": "/lramm-site/static/js/main.fcfec859.js.map",
     "787.bcf8a6d3.chunk.js.map": "/lramm-site/static/js/787.bcf8a6d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39ba6f6f.css",
-    "static/js/main.3481917a.js"
+    "static/js/main.fcfec859.js"
   ]
 }
